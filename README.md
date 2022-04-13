@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img alt="Yiyang Sun" src="https://img-blog.csdnimg.cn/88cdb6a4db074f149af566d62e8179fc.png?type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAc3RhcnRlcl95b34=,size_20,color_FFFFFF,t_70,g_se,x_16" width=300 /><br />  
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=h-sina)]()
 
 <!--
 **h-sina/h-sina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
