@@ -1,11 +1,11 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img alt="Yiyang Sun" src="https://img-blog.csdnimg.cn/88cdb6a4db074f149af566d62e8179fc.png?type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAc3RhcnRlcl95b34=,size_20,color_FFFFFF,t_70,g_se,x_16" width=200 /><br />  
+### Hi there 
+<img src="https://img-blog.csdnimg.cn/88cdb6a4db074f149af566d62e8179fc.png?type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAc3RhcnRlcl95b34=,size_20,color_FFFFFF,t_70,g_se,x_16" width=200 /><br />  
 
 
 
 <!--
 **h-sina/h-sina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
